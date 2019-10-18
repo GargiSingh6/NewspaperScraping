@@ -1,0 +1,348 @@
+Title:          Entertainment News - Latest Bollywood, Hollywood and TV Gossips - Telegraph India                     
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "url": "https://www.telegraphindia.com/",
+            "name": "Telegraph India",
+            "sameAs": ["https://www.facebook.com/thetelegraphindia/", "https://twitter.com/ttindia"]
+        }
+
+
+     
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.telegraphindia.com/entertainment",
+                    "name": "Entertainment"
+                }
+            }]
+        }
+
+     
+        dataLayer = [{
+            'sectionname': 'Entertainment',
+            'pagetype': 'section'
+        }];
+     
+        var mapsInfo = [];
+        var imgBase = '/unsafe/static.telegraphindia.com';
+        var section = '';
+        var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+        if ((userAgent.match(/iPhone/i) || userAgent.match(/Android/i)) && screen.width < 768) {
+            var input = window.location.href;
+            var res = input.split("//www");
+            var subInput = "//m.";
+            if (input.includes(subInput)) {
+                console.log('fd', res);
+            }
+            else {
+                window.location = res[0] + "//m" + res[1];
+            }
+        } else {
+            var input = window.location.href;
+            var subInput = "//m.";
+            if (input.includes(subInput)) {
+                var res = input.split("//m.");
+                window.location = res[0] + "//" + res[1];
+            }
+        }
+     
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+    originalLocation: document.location.protocol + '//' +
+                        document.location.hostname +
+                        document.location.pathname +
+                        document.location.search
+    });
+ 
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T9HRQZR');
+ 
+    var adsCanonicalUrl = 'https://www.telegraphindia.com/entertainment';
+    var adsFullUrl = window.location.href;
+    var adsSectionLabel = 'TT_Listing';
+    var adsSectionValue = 'Entertainment';
+    var page = 'section';
+    var section = 'entertainment';
+  
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+ 		
+var intViewportWidth = window.innerWidth;
+var abpDevice="";
+if (intViewportWidth>768 && intViewportWidth<1023){abpDevice="tablet"}
+else if (intViewportWidth>=1024){abpDevice="desktop"}
+console.log(abpDevice);
+console.log(intViewportWidth);
+			
+			
+googletag.cmd.push(function() {
+googletag.defineSlot('/1088475/TT_Header_728x90', [728, 90], 'div-gpt-ad-1525340492587-0').addService(googletag.pubads());
+    googletag.defineSlot('/1088475/TT_Middle_1_728x90', [728, 90], 'div-gpt-ad-1525340492587-1').addService(googletag.pubads());
+    
+if (abpDevice==="desktop")
+{
+    googletag.defineSlot('/1088475/TT_RHS_1_300x250', [300, 250], 'div-gpt-ad-1525340492587-2').addService(googletag.pubads());
+    googletag.defineSlot('/1088475/TT_RHS_3_300x250', [300, 250], 'div-gpt-ad-1525340492587-4').addService(googletag.pubads());}
+    googletag.defineOutOfPageSlot('/1088475/TT_1x1', 'div-gpt-ad-1525340492587-5').addService(googletag.pubads());
+    googletag.defineOutOfPageSlot('/1088475/TT_Slider_1x1', 'div-gpt-ad-1525340492587-6').addService(googletag.pubads());
+
+
+
+googletag.pubads().set("page_url", "adsCanonicalUrl");
+googletag.pubads().setTargeting("url", "adsFullUrl");
+googletag.pubads().setTargeting(adsSectionLabel, adsSectionValue);
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+  });
+ 
+  window._taboola = window._taboola || [];
+  _taboola.push({category:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/telegraphindiacom/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+           Monday, 30th October 2017 E- paper                                       Home   Opinion   India   Bengal   World   Business   Science   Technology   Health    Sport  Cricket  Horse Racing  Football      Entertainment    Culture  Travel  Books  Style  Heritage  Arts  People  Food                 My Profile Logout    Log In  /  Sign Up           Home      Opinion      India      Bengal      World      Business      Science      Technology      Health      Sport   Cricket Football Horse Racing    Entertainment      Culture   Books Food Travel Style Arts People Heritage    States   West Bengal North East Jharkhand    E- paper       About Us   Download our app:                      Entertainment        
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525340492587-0'); });
+       Download  TT App                       Entertainment  ‘Laal Kaptaan’: Yawnfest let down by ambition Saif Ali Khan embraces the raw and rugged physicality of a murderous ascetic  By Priyanka Roy                    Entertainment  ‘Supernatural’ enters final season   By Priyanka Roy      
+if(abpDevice==="desktop"){googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525340492587-2'); });}
+                   Entertainment  Rhythm Shaw's great musical journey  By Urvashi Bhattacharya                   Entertainment  Navdeep Singh looks forward to ‘Laal Kaptaan’   By Karishma Upadhyay               Entertainment  Gitanjali Rao: Creating waves with ‘Bombay Rose’   By Priyanka Roy             Bollywood  Saif Ali Khan on playing a ‘wild wolf’ in Laal Kaptaan   By Karishma Upadhyay          Reviews        El Camino extends the Breaking Bad cinematic universe Aaron Paul’s performance was often overshadowed by Cranston’s during the series’s run, but he’s phenomenal here  By James Poniewozik/ NYTNS            ‘The Sky is Pink’: Both gut-wrenching and life-affirming   By Priyanka Roy           The Politician is the dark comedy drama that we could all do with a healthy dose of   By Shrestha Saha           War: A testosterone fest powered by Hrithik and Tiger   By Priyanka Roy           Succession is a riveting watch   By Abhishek Sikhwal       Columns             Amitabh Bachhan: Making of a superstar             Satyakam: Hrishikesh Mukherjee's favourite film turns 50       Most Read   1.  Entertainment   Sunny Leone on Splitsvilla and beyond   2.  Entertainment   ‘The Sky is Pink’: Both gut-wrenching and life-affirming   3.  Entertainment   Satyakam: Hrishikesh Mukherjee's favourite film turns 50   4.  Entertainment   The Family Man is a spy show with a difference    5.  Entertainment   Siddhanth Kapoor’s choice   6.  Entertainment   Rohit Saraf on The Sky is Pink   7.  Entertainment   ‘Vaastav’: Sanju’s searing reality   8.  Entertainment   Kubbra Sait on her trans role in Sacred Games        
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525340492587-1'); });
+      More from Entertainment            Entertainment  A lump in your throat  Only recently, Shekhar Kapur got trolled on Twitter for not acknowledging the original  By Sulagana Biswas            Entertainment  Rhythm Shaw's great musical journey  The 24-year-old has managed to tour Germany and Europe with his first album  By Urvashi Bhattacharya            Entertainment  ‘Supernatural’ enters final season  ‘I think we’re going to go out at the right time’ — Jensen ‘Dean’ Ackles   By Priyanka Roy             Entertainment  ‘Laal Kaptaan’: Yawnfest let down by ambition  Saif Ali Khan embraces the raw and rugged physicality of a murderous ascetic   By Priyanka Roy             Entertainment  Navdeep Singh looks forward to ‘Laal Kaptaan’  Singh talks about why he is attracted to dark stories   By Karishma Upadhyay             Entertainment  Gitanjali Rao: Creating waves with ‘Bombay Rose’  Animation feature is currently showing at the Jio MAMI 21st Mumbai Film Festival with STAR 2019   By Priyanka Roy             Bollywood  As Ujda Chaman and Bala get ready for face-off, we look back at similar cases  Bald clash of ‘ideas’  By Our Bureau & PTI            Bollywood  Saif Ali Khan on playing a ‘wild wolf’ in Laal Kaptaan  He also talks about what drives him to do a film and son Ibrahim’s Bolly aspirations    By Karishma Upadhyay      
+                section = 'entertainment';
+              Load More   Loading...  
+                    var from = 8;
+                    var size = 6;
+                    var totalStories = from + 1;
+                    var loadedStories = -1;
+
+                    function loadMore(){
+                        console.log('loading')
+                        $('#load_more').hide();
+                        $('#loading').show();
+                        $.ajax('/entertainment/sorter/121/from/'+from+'/size/'+size, {
+                            success: function(data) {
+                                $('#load_more').show();
+                                $('#loading').hide();
+                                from = from + size;
+                                $("#load-more-stories").append(data);
+//                                console.log('dfdfdf', data.json());
+                            },
+                            error: function(error) {
+                                console.error(error);
+                                $('#load_more').show();
+                                $('#loading').hide();
+                            }
+                        });
+                    }
+
+                    function hideLoadMore(){
+                        console.log('hiding')
+                        $('#load_more').hide();
+                        $('#loading').hide();
+                    }
+                     
+if(abpDevice==="desktop"){googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525340492587-4'); });}
+       
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-b',
+    container: 'taboola-below-page-thumbnails',
+    placement: 'Below Page Thumbnails',
+    target_type: 'mix'
+  });
+      
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525340492587-5'); });
+   
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525340492587-6'); });
+       The Telegraph About Us Contact Us Terms of use Privacy Policy   Links Home Opinion India Bengal World Business Science Technology Health Sport Entertainment Culture   Group Websites Fortune India Anandabazar Patrika  DOWNLOAD TT APP Android iPhone       Copyright © 2017 The Telegraph. All rights reserved.  Follow us on             
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+       
+html<html lang="en"> <head> <meta charset="utf-8"/> <meta content="IE=edge" http-equiv="X-UA-Compatible"/> <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/> <link href="/assets/images/favicon.png" rel="icon"/> <link async="async" href="/assets/css/style.css?v=13610" rel="stylesheet" type="text/css"/> <!--[if lt IE 9]><script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script> <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]--> <link href="/manifest.json" rel="manifest"/> <title>Entertainment News - Latest Bollywood, Hollywood and TV Gossips - Telegraph India </title> <meta content="Entertainment News - Get the latest entertainment news, hot gossips, celebrity new, from bollywood, hollywood and TV. Watch Movie trailer, Movie release on The Telegraph" name="description"/> <link href="https://www.telegraphindia.com/entertainment" rel="canonical"/> <meta content="https://www.telegraphindia.com/entertainment" property="og:url"/> <meta content="534248160342700" property="fb:app_id"/> <link href="https://m.telegraphindia.com/entertainment" media="only screen and (max-width: 640px)" rel="alternate"/> <meta content="" name="keyword"/> <meta content="" property="og:title"/> <meta content="website" property="og:type"/> <meta content="" property="og:description"/> <meta content="" property="og:image"/> <meta content="summary_large_image" name="twitter:card"/> <meta content="https://www.telegraphindia.com" name="twitter:url"/> <meta content="@ttindia" name="twitter:site"/> <meta content="@ttindia" name="twitter:creator"/> <meta content="" name="twitter:title"/> <meta content="" name="twitter:description"/> <meta content="index, follow" name="robots"/> <meta content="VRsNukuvRBQE0QCvqNj2fdezMC2N6_pAK2B7lMHcHGA" name="google-site-verification"/> <meta content="origin" name="referrer"/><meta content="16C1B4A8FD9A29E3D5AFC3EF251C77A8" name="msvalidate.01"/> <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "url": "https://www.telegraphindia.com/",
+            "name": "Telegraph India",
+            "sameAs": ["https://www.facebook.com/thetelegraphindia/", "https://twitter.com/ttindia"]
+        }
+
+
+    </script> <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://www.telegraphindia.com/entertainment",
+                    "name": "Entertainment"
+                }
+            }]
+        }
+
+    </script> <script>
+        dataLayer = [{
+            'sectionname': 'Entertainment',
+            'pagetype': 'section'
+        }];
+    </script> <script type="text/javascript">
+        var mapsInfo = [];
+        var imgBase = '/unsafe/static.telegraphindia.com';
+        var section = '';
+        var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+        if ((userAgent.match(/iPhone/i) || userAgent.match(/Android/i)) && screen.width < 768) {
+            var input = window.location.href;
+            var res = input.split("//www");
+            var subInput = "//m.";
+            if (input.includes(subInput)) {
+                console.log('fd', res);
+            }
+            else {
+                window.location = res[0] + "//m" + res[1];
+            }
+        } else {
+            var input = window.location.href;
+            var subInput = "//m.";
+            if (input.includes(subInput)) {
+                var res = input.split("//m.");
+                window.location = res[0] + "//" + res[1];
+            }
+        }
+    </script> <script>
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+    originalLocation: document.location.protocol + '//' +
+                        document.location.hostname +
+                        document.location.pathname +
+                        document.location.search
+    });
+</script> <script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T9HRQZR');
+</script> <script>
+    var adsCanonicalUrl = 'https://www.telegraphindia.com/entertainment';
+    var adsFullUrl = window.location.href;
+    var adsSectionLabel = 'TT_Listing';
+    var adsSectionValue = 'Entertainment';
+    var page = 'section';
+    var section = 'entertainment';
+</script> <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script> <script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script> <script>		
+var intViewportWidth = window.innerWidth;
+var abpDevice="";
+if (intViewportWidth>768 && intViewportWidth<1023){abpDevice="tablet"}
+else if (intViewportWidth>=1024){abpDevice="desktop"}
+console.log(abpDevice);
+console.log(intViewportWidth);
+			
+			
+googletag.cmd.push(function() {
+googletag.defineSlot('/1088475/TT_Header_728x90', [728, 90], 'div-gpt-ad-1525340492587-0').addService(googletag.pubads());
+    googletag.defineSlot('/1088475/TT_Middle_1_728x90', [728, 90], 'div-gpt-ad-1525340492587-1').addService(googletag.pubads());
+    
+if (abpDevice==="desktop")
+{
+    googletag.defineSlot('/1088475/TT_RHS_1_300x250', [300, 250], 'div-gpt-ad-1525340492587-2').addService(googletag.pubads());
+    googletag.defineSlot('/1088475/TT_RHS_3_300x250', [300, 250], 'div-gpt-ad-1525340492587-4').addService(googletag.pubads());}
+    googletag.defineOutOfPageSlot('/1088475/TT_1x1', 'div-gpt-ad-1525340492587-5').addService(googletag.pubads());
+    googletag.defineOutOfPageSlot('/1088475/TT_Slider_1x1', 'div-gpt-ad-1525340492587-6').addService(googletag.pubads());
+
+
+
+googletag.pubads().set("page_url", "adsCanonicalUrl");
+googletag.pubads().setTargeting("url", "adsFullUrl");
+googletag.pubads().setTargeting(adsSectionLabel, adsSectionValue);
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+  });
+</script> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({category:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/telegraphindiacom/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script> </head> <body class="gallerybody"> <noscript> <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T9HRQZR" style="display:none;visibility:hidden" width="0"></iframe> </noscript> <header class="header"> <div class="container"> <div class="row flex-nowrap justify-content-between"> <div class="col-4 pt-1 align-self-end"> <div class="date"> <p class="date-str" id="today" style="display: inline"><span>Monday, 30th October 2017</span></p> <span><a href="https://epaper.telegraphindia.com/" rel="nofollow" target="_blank">E- paper</a></span> </div> </div> <div class="col-4 text-center"> <div class="logo" data-widget="Brand Logo_Entertainment page"> <a href="/"><img alt="" src="/assets/images/logo.png?v=5"/> </a> </div> </div> <div class="col-4 d-flex justify-content-end align-items-end"> <div class="social_share nav_social"> <a href="https://www.facebook.com/thetelegraphindia" target="_blank"> <span class="icon-facebook"></span></a> <a href="https://twitter.com/ttindia" target="_blank"> <span class="icon-twitter"></span></a> <a href="https://www.instagram.com/telegraphonline/" target="_blank"> <span class="icon-instagram"></span></a> <a href="https://appurl.io/gJiSI_o7z" target="_blank"> <span class="icon-android"></span></a> <a href="https://appurl.io/ON5rLnFXn" target="_blank"> <span class="icon-appstore"></span></a> </div> </div> </div> </div> </header> <div class="gallerybody"> <div class="sectionSticky"> <nav class="home-sticky" id="home-navbar"> <div class="container"> <div class="d-flex justify-content-between"> <div class="sticky-logo"> <a href="/"> <img alt="tt_nav_logo" src="/assets/images/tt_nav_logo.gif"/> </a> </div> <ul data-widget="Navbar_Entertainment page"> <li id="menuOpen"><i class="sprite nav-icon"></i></li> <li class=""> <a href="/">Home</a> </li> <li class=""> <a href="/opinion">Opinion</a> </li> <li class=""> <a href="/india">India</a> </li> <li class=""> <a href="/states/west-bengal">Bengal</a> </li> <li class=""> <a href="/world">World</a> </li> <li class=""> <a href="/business">Business</a> </li> <li class=""> <a href="/science">Science</a> </li> <li class=""> <a href="/technology">Technology</a> </li> <li class=""> <a href="/health">Health</a> </li> <div class="dropdown"> <li class="" onclick="myFunction()"> <a href="/sport">Sport<i class="icon-down-open-big"></i></a> <ul class="childMenus" id="childMenus"> <li><a href="/sport/cricket">Cricket</a> </li> <li><a href="https://www.telegraphindia.com/sport/horse-racing/">Horse Racing</a> </li> <li><a href="/sport/football">Football</a> </li> </ul> </li> </div> <li class="active"> <a href="/entertainment">Entertainment</a> </li> <div class="dropdown"> <li class="" onclick="myFunction()"> <a href="/culture">Culture<i class="icon-down-open-big"></i></a> <ul class="childMenus" id="childMenus"> <li><a href="/culture/travel">Travel</a> </li> <li><a href="/culture/books">Books</a> </li> <li><a href="/culture/style">Style</a> </li> <li><a href="/culture/heritage">Heritage</a> </li> <li><a href="/culture/arts">Arts</a> </li> <li><a href="/culture/people">People</a> </li> <li><a href="/culture/food">Food</a> </li> </ul> </li> </div> </ul> <div class="d-flex justify-content-end" style="position: relative"> <form class="searchDesktop homeSearch" method="get" name="searchDesktop" onkeypress="return searchKeyPress3(event);"> <input autocomplete="off" class="headerSearch" id="global-search3" placeholder="Search" type="text" value=""/> <div class="searchIconPage sprite" id="clickSearch3"></div> </form> <div class="search search-btn"><i class="sprite search-icon"></i></div> <div class="account_link"> <div class="hasUser"> <span class="userName"></span> <i class="icon-down-open"></i> <ul> <li><a href="/profile">My Profile</a></li> <li><a href="javascript:void(0)" onclick="logout()">Logout</a></li> </ul> </div> <div data-widget="Login_Entertainment page" id="notUser"> <span onclick="clickLogin(this)">Log In </span> / <span onclick="clickRegister(this)"> Sign Up</span> </div> </div> </div> </div> </div> </nav> <div id="homeMenu"> <div class="menu-drawer scrollbar-inner"> <ul data-widget="Breadcrumb_Entertainment page"> <li class=""> <a class="menuAnchor" href="/">Home</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> </ul> </li> <li class=""> <a class="menuAnchor" href="/opinion">Opinion</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> </ul> </li> <li class=""> <a class="menuAnchor" href="/india">India</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> </ul> </li> <li class=""> <a class="menuAnchor" href="/states/west-bengal">Bengal</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> </ul> </li> <li class=""> <a class="menuAnchor" href="/world">World</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> </ul> </li> <li class=""> <a class="menuAnchor" href="/business">Business</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> </ul> </li> <li class=""> <a class="menuAnchor" href="/science">Science</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> </ul> </li> <li class=""> <a class="menuAnchor" href="/technology">Technology</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> </ul> </li> <li class=""> <a class="menuAnchor" href="/health">Health</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> </ul> </li> <li class="hasChild"> <a class="menuAnchor" href="/sport">Sport</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> <li><a href="/sport/cricket">Cricket</a></li> <li><a href="/sport/football">Football</a></li> <li><a href="https://www.telegraphindia.com/sport/horse-racing/">Horse Racing</a></li> </ul> </li> <li class=""> <a class="menuAnchor" href="/entertainment">Entertainment</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> </ul> </li> <li class="hasChild"> <a class="menuAnchor" href="/culture">Culture</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> <li><a href="/culture/books">Books</a></li> <li><a href="/culture/food">Food</a></li> <li><a href="/culture/travel">Travel</a></li> <li><a href="/culture/style">Style</a></li> <li><a href="/culture/arts">Arts</a></li> <li><a href="/culture/people">People</a></li> <li><a href="/culture/heritage">Heritage</a></li> </ul> </li> <li class="hasChild"> <a class="menuAnchor" href="/states">States</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> <li><a href="/states/west-bengal">West Bengal</a></li> <li><a href="/states/north-east">North East</a></li> <li><a href="/states/jharkhand">Jharkhand</a></li> </ul> </li> <li class=""> <a class="menuAnchor" href="https://epaper.telegraphindia.com/">E- paper</a> <i class="sprite menuToggle menuPlus"></i> <ul class="subMenu"> </ul> </li> </ul> <ul class="othermenu"> <li><a href="/about-us">About Us</a></li> </ul> <div class="appLinks"> Download our app: <a href="https://bit.ly/2XmCwYr" target="_blank"><img alt="Download From Google Play" src="/assets/images/download-play.png"/></a> <a href="https://apple.co/2WlmuBG" target="_blank"><img alt="Download From App Store" src="/assets/images/download-app.png"/></a> </div> </div> </div> <div class="overlayMenu"></div> <div class="subHeader"> <div class="container"> <div class="d-flex" data-widget="Navabar_Entertainment page"> </div> </div> <div class="sectionNav"> <div class="container"> <ul data-widget="Navbar_Entertainment page"> </ul> </div> </div> </div> </div> <div class="container"> <h1 class="sectionTitle" data-widget="Navbar_Entertainment page"> <a href="javascript:void(0)">Entertainment</a> </h1> </div> <div class="container"> <div class="d-flex py-10 flex-lg-nowrap flex-sm-wrap"> <div class="topCode opinionTopWrap"> <div class="Ad780" page="section"> <div id="div-gpt-ad-1525340492587-0" style="height:90px; width:728px;"> <script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525340492587-0'); });
+</script> </div> </div> </div> <div class="col p-0 addRight"> <div class="banner_tt d-flex app_download sectionBanner indiaPage op_banner"> <div class="col col-40-custom"> <h6>Download <br/> TT App</h6> </div> <div class="col flex-column"> <a href="https://apple.co/2WlmuBG" target="_blank"> <img alt="Download From App Store" src="/assets/images/ios_download.jpg"/> </a> <br/> <a href="https://bit.ly/2XmCwYr" target="_blank"> <img alt="Download From Google Play" src="/assets/images/and_download.jpg"/> </a> </div> </div> </div> </div> <div class="d-flex" data-widget="Entertainment_Entertainment page"> <div class="culture_story"> <div class="placeholder"> <a href="/entertainment/laal-kaptaan-yawnfest-let-down-by-ambition/cid/1712603"> <img alt="Saif Ali Khan in the movie" src="/unsafe/610x343/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712603/16X9/derivative16X91571403630648.jpg"/> </a> </div> <h4> <a href="/entertainment"> Entertainment</a> </h4> <h3><a class="twoLine" href="/entertainment/laal-kaptaan-yawnfest-let-down-by-ambition/cid/1712603">‘Laal Kaptaan’: Yawnfest let down by ambition</a></h3> <p><a class="threeLine" href="/entertainment/laal-kaptaan-yawnfest-let-down-by-ambition/cid/1712603">Saif Ali Khan embraces the raw and rugged physicality of a murderous ascetic</a></p> <span class="byLine"> <a href="/author/priyanka-roy/76">By Priyanka Roy</a> </span> </div> <div class="culture_story_box"> <div class="story_view hasImage"> <aside class="desktop-show"> <span class="placeholder imgWrap"> <a class="desktop-show" href="/entertainment/supernatural-enters-final-season/cid/1712605"> <img alt="Brothers in arms: Jensen Ackles (left) and Jared Padalecki in the show" src="/unsafe/280x160/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712605/16X9/image313e3cf7-c91c-46f6-8a98-8ce4cb6c3e09.jpg"/> </a> </span> </aside> <aside class="desktop-hide imgWrap"> <span class="placeholderMedium" style="margin-top: 0"> <a href="/entertainment/supernatural-enters-final-season/cid/1712605"> <img alt="Brothers in arms: Jensen Ackles (left) and Jared Padalecki in the show" src="/unsafe/96x96/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712605/1X1/imagec77d5996-5741-41f3-8f57-9a70fddfaf5d.jpg"/> </a> </span> </aside> <h4> <a href="/entertainment">Entertainment</a> </h4> <h3><a class="twoLine" href="/entertainment/supernatural-enters-final-season/cid/1712605">‘Supernatural’ enters final season</a></h3> <span> <span class="byLine"> <a href="/author/priyanka-roy/76">By Priyanka Roy</a> </span> </span> </div> <div class="d-none d-lg-block topAdd_right add-Div-Culture-Top culture_atf"> <div id="div-gpt-ad-1525340492587-2" style="height:250px; width:300px;"> <script>
+if(abpDevice==="desktop"){googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525340492587-2'); });}
+</script> </div> </div> <div class="story_view hasImage storyViewTwo"> <aside class="desktop-show"> <span class="placeholder imgWrapBig"> <a class="desktop-show" href="/entertainment/rhythm-shaw-s-great-musical-journey/cid/1712610"> <img alt="Rhythm Shaw " src="/unsafe/280x160/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712610/16X9/image26d40da1-9cbd-45ed-b6c4-05649e0f387c.jpg"/> </a> </span> </aside> <aside class="desktop-hide imgWrapBig"> <span class="placeholderMedium" style="margin-top: 0"> <a href="/entertainment/rhythm-shaw-s-great-musical-journey/cid/1712610"> <img alt="Rhythm Shaw " src="/unsafe/96x96/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712610/1X1/image0884a259-b29e-47a4-9f49-d1bd2534bf72.jpg"/> </a> </span> </aside> <h4> <a href="/entertainment">Entertainment</a> </h4> <h3><a class="twoLine" href="/entertainment/rhythm-shaw-s-great-musical-journey/cid/1712610">Rhythm Shaw's great musical journey</a></h3> <span> <span class="byLine">By Urvashi Bhattacharya</span> </span> </div> <div class="story_view story_view_pt0 hasImage"> <aside class="desktop-show"> <span class="placeholder imgWrapBig"> <a class="desktop-show" href="/entertainment/filmmaker-navdeep-singh-looks-forward-to-laal-kaptaan-and-rewinds-to-nh10/cid/1712370"> <img alt="Saif Ali Khan in ‘Laal Kaptaan’ " src="/unsafe/280x160/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712370/16X9/imagea0b27f1c-a7d7-4a23-bfff-b999da10e40d.jpg"/> </a> </span> </aside> <aside class="desktop-hide imgWrapBig"> <span class="placeholderMedium" style="margin-top: 0"> <a href="/entertainment/filmmaker-navdeep-singh-looks-forward-to-laal-kaptaan-and-rewinds-to-nh10/cid/1712370"> <img alt="Saif Ali Khan in ‘Laal Kaptaan’ " src="/unsafe/96x96/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712370/1X1/image97d14862-b2c5-40db-8ddb-7cbb76f0da93.jpg"/> </a> </span> </aside> <h4> <a href="/entertainment">Entertainment</a> </h4> <h3><a class="twoLine" href="/entertainment/filmmaker-navdeep-singh-looks-forward-to-laal-kaptaan-and-rewinds-to-nh10/cid/1712370">Navdeep Singh looks forward to ‘Laal Kaptaan’</a></h3> <span> <span class="byLine"> <a href="/author/karishma-upadhyay/82">By Karishma Upadhyay</a> </span> </span> </div> </div> </div> <div class="row" data-widget="Entertainment_Entertainment page"> <div class="col"> <div class="story_view culture-half culture_view"> <div class="placeholderMedium imgWrap"> <a href="/entertainment/gitanjali-rao-creating-waves-with-bombay-rose/cid/1712367" rel="follow"> <img alt="A moment from ‘Bombay Rose’" class="float-left" src="/unsafe/130x130/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712367/1X1/image4ab5e050-ec9a-4af6-85cd-6cd9ec901dac.jpg"/> </a> </div> <h4> <a href="/entertainment">Entertainment</a> </h4> <h3><a class="twoLine" href="/entertainment/gitanjali-rao-creating-waves-with-bombay-rose/cid/1712367">Gitanjali Rao: Creating waves with ‘Bombay Rose’</a></h3> <span> <span class="byLine"> <a href="/author/priyanka-roy/76">By Priyanka Roy</a> </span> </span> </div> </div> <div class="col"> <div class="story_view culture-half culture_view"> <div class="placeholderMedium imgWrap"> <a href="/entertainment/bollywood/saif-ali-khan-on-playing-a-wild-wolf-in-friday-film-laal-kaptaan/cid/1712153" rel="follow"> <img alt="Saif Ali Khan in Laal Kaptaan " class="float-left" src="/unsafe/130x130/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712153/1X1/imagec58cb63d-45a7-4276-952c-7eee0c2c9f38.jpg"/> </a> </div> <h4> <a href="/entertainment/bollywood">Bollywood</a> </h4> <h3><a class="twoLine" href="/entertainment/bollywood/saif-ali-khan-on-playing-a-wild-wolf-in-friday-film-laal-kaptaan/cid/1712153">Saif Ali Khan on playing a ‘wild wolf’ in Laal Kaptaan</a></h3> <span> <span class="byLine"> <a href="/author/karishma-upadhyay/82">By Karishma Upadhyay</a> </span> </span> </div> </div> </div> </div> <div class="container"> <div class="d-flex mt-5 flex-lg-nowrap flex-sm-wrap"> <div class="story" collection-template="pages/culture/page" data-widget="Reviews_Entertainment page" wgt-sequence="1" wgt-sorter="196-Entertainment Reviews (M)" wgt-template="pages/culture/reviews/main"> <div class="heading headingBlack"><span>Reviews</span></div> <div class="cultureBook"> <div class="pl-0 cul_book"> <div class="placeholder"> <a href="/entertainment/el-camino-extends-the-breaking-bad-cinematic-universe-by-two-hours-without-really-adding-to-it/cid/1711674" rel="follow"> <img alt="For much of El Camino Paul practically stars in a silent film, giving us Jesse as a hunted animal so scarred that even speaking is an effort" class="" src="/unsafe/549x308/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1711674/16X9/image4efb7370-d94d-45f7-93ab-59ed1a308e7b.jpg"/></a> </div> <div class="story_view_book" style="margin-top: 10px"> <h3><a class="twoLine" href="/entertainment/el-camino-extends-the-breaking-bad-cinematic-universe-by-two-hours-without-really-adding-to-it/cid/1711674" rel="follow">El Camino extends the Breaking Bad cinematic universe</a></h3> <p><a class="threeLine" href="/entertainment/el-camino-extends-the-breaking-bad-cinematic-universe-by-two-hours-without-really-adding-to-it/cid/1711674" rel="follow">Aaron Paul’s performance was often overshadowed by Cranston’s during the series’s run, but he’s phenomenal here</a></p> <span> <span class="byLine">By James Poniewozik/ NYTNS</span> </span> </div> </div> <ul class="listing-withImage cul_list"> <li> <div class="imgWrap" style="width: 104px"> <div class="placeholderSmall"> <a href="/entertainment/the-sky-is-pink-both-gut-wrenching-and-life-affirming/cid/1710965" rel="follow"> <img alt="A scene from ‘The Sky is Pink’" src="/unsafe/110x83/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1710965/4X3/image2d2380a5-5f6b-4e4a-982b-13064dd6429e.jpg"/></a> </div> </div> <p><a class="twoLine" href="/entertainment/the-sky-is-pink-both-gut-wrenching-and-life-affirming/cid/1710965" rel="follow">‘The Sky is Pink’: Both gut-wrenching and life-affirming</a></p> <span> <span class="byLine"> <a href="/author/priyanka-roy/76">By Priyanka Roy</a> </span> </span> </li> <li> <div class="imgWrap" style="width: 104px"> <div class="placeholderSmall"> <a href="/entertainment/the-politician-is-the-dark-comedy-drama-that-we-could-all-do-with-a-healthy-dose-of/cid/1710452" rel="follow"> <img alt="Ben Platt and Gwyneth Paltrow star in the Netflix Original The Politician by Ryan Murphy, marking the beginning of a 300 million-dollar deal between the director and the OTT platform. " src="/unsafe/110x83/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1710452/4X3/image6f9ab33f-4024-44b0-907f-a19d761ad2e4.jpg"/></a> </div> </div> <p><a class="twoLine" href="/entertainment/the-politician-is-the-dark-comedy-drama-that-we-could-all-do-with-a-healthy-dose-of/cid/1710452" rel="follow">The Politician is the dark comedy drama that we could all do with a healthy dose of</a></p> <span> <span class="byLine"> <a href="/author/shrestha-saha/203">By Shrestha Saha</a> </span> </span> </li> <li> <div class="imgWrap" style="width: 104px"> <div class="placeholderSmall"> <a href="/entertainment/bollywood/war-a-testosterone-fest-powered-by-hrithik-and-tiger/cid/1709674" rel="follow"> <img alt="Tiger Shroff and Hrithik Roshan " src="/unsafe/110x83/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1709674/4X3/image8a4586bc-005e-40a0-8737-62792cc87bc2.jpg"/></a> </div> </div> <p><a class="twoLine" href="/entertainment/bollywood/war-a-testosterone-fest-powered-by-hrithik-and-tiger/cid/1709674" rel="follow">War: A testosterone fest powered by Hrithik and Tiger</a></p> <span> <span class="byLine"> <a href="/author/priyanka-roy/76">By Priyanka Roy</a> </span> </span> </li> <li> <div class="imgWrap" style="width: 104px"> <div class="placeholderSmall"> <a href="/entertainment/hbo-series-succession-is-a-riveting-watch/cid/1709677" rel="follow"> <img alt="We have always known that the rich do not care beyond their success but Succession provides a backdoor pass to their inner machinations and makes for a riveting watch" src="/unsafe/110x83/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1709677/4X3/imagef723c55f-f0e2-47ec-915e-b542c63c39a9.jpg"/></a> </div> </div> <p><a class="twoLine" href="/entertainment/hbo-series-succession-is-a-riveting-watch/cid/1709677" rel="follow">Succession is a riveting watch </a></p> <span> <span class="byLine">By Abhishek Sikhwal</span> </span> </li> </ul> </div> </div> <div class="flex300 addRight cultureTheatreWrap" data-widget="Columns_Entertainment page"> <div class="heading headingBlack"><span>Columns</span></div> <div class="cultureTheatre"> <div class="theatreBox"> <div class="placeholder imgWrap desktop-show"> <a href="/entertainment/amitabh-bachhan-making-of-a-superstar/cid/1711239" rel="follow"> <img alt="Next month will mark 50 years of Amitabh Bachchan in Hindi films" src="/unsafe/280x157/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1711239/16X9/derivative16X91570891329957.jpg"/> </a> </div> <div class="placeholder imgWrap desktop-hide"> <a href="/entertainment/amitabh-bachhan-making-of-a-superstar/cid/1711239" rel="follow"> <img alt="Next month will mark 50 years of Amitabh Bachchan in Hindi films" src="/unsafe/100x100/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1711239/1X1/image5d5cfda8-f15d-42a0-a3c5-0320316a562a.jpg"/> </a> </div> <h3><a class="threeLine" href="/entertainment/amitabh-bachhan-making-of-a-superstar/cid/1711239" rel="follow">Amitabh Bachhan: Making of a superstar</a></h3> </div> <div class="theatreBox"> <div class="placeholder imgWrap desktop-show"> <a href="/entertainment/satyakam-hrishikesh-mukherjee-s-favourite-film-turns-50/cid/1710446" rel="follow"> <img alt="In Satyakam, the character played by Dharmendra, Satyapriya, is an unalloyed idealist, an incorrigible truth-teller, and probably conceived as a Gandhian; the film, based on Narayan Sanyal’s novel, was made in Mahatma Gandhi’s centenary year, and was intended partly as a homage" src="/unsafe/280x157/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1710446/16X9/derivative16X91570625848287.jpg"/> </a> </div> <div class="placeholder imgWrap desktop-hide"> <a href="/entertainment/satyakam-hrishikesh-mukherjee-s-favourite-film-turns-50/cid/1710446" rel="follow"> <img alt="In Satyakam, the character played by Dharmendra, Satyapriya, is an unalloyed idealist, an incorrigible truth-teller, and probably conceived as a Gandhian; the film, based on Narayan Sanyal’s novel, was made in Mahatma Gandhi’s centenary year, and was intended partly as a homage" src="/unsafe/100x100/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1710446/1X1/image7204682f-c84a-4927-8387-1255027e7271.jpg"/> </a> </div> <h3><a class="threeLine" href="/entertainment/satyakam-hrishikesh-mukherjee-s-favourite-film-turns-50/cid/1710446" rel="follow">Satyakam: Hrishikesh Mukherjee's favourite film turns 50</a></h3> </div> </div> </div> </div> <div class="blackBg"> <div class="newsBox sectionTopSpace" collection-template="pages/culture/page" data-widget="Most Read_Entertainment page" wgt-sequence="1" wgt-sorter="206-Entertainment Most Read" wgt-template="widgets/most-read"> <div class="heading"><span>Most Read</span></div> <ul class="listing listing_4"> <li> <span>1.</span> <h4> <a href="/entertainment" rel="follow" target="_self">Entertainment</a> </h4> <h3> <a class="threeLine" href="/entertainment/sunny-leone-on-splitsvilla-and-beyond/cid/1695504" rel="follow" target="_self">Sunny Leone on Splitsvilla and beyond</a></h3> </li> <li> <span>2.</span> <h4> <a href="/entertainment" rel="follow" target="_self">Entertainment</a> </h4> <h3> <a class="threeLine" href="/entertainment/the-sky-is-pink-both-gut-wrenching-and-life-affirming/cid/1710965" rel="follow" target="_self">‘The Sky is Pink’: Both gut-wrenching and life-affirming</a></h3> </li> <li> <span>3.</span> <h4> <a href="/entertainment" rel="follow" target="_self">Entertainment</a> </h4> <h3> <a class="threeLine" href="/entertainment/satyakam-hrishikesh-mukherjee-s-favourite-film-turns-50/cid/1710446" rel="follow" target="_self">Satyakam: Hrishikesh Mukherjee's favourite film turns 50</a></h3> </li> <li> <span>4.</span> <h4> <a href="/entertainment" rel="follow" target="_self">Entertainment</a> </h4> <h3> <a class="threeLine" href="/entertainment/amazon-prime-s-new-show-the-family-man-is-both-an-espionage-thriller-and-a-family-drama/cid/1707281" rel="follow" target="_self">The Family Man is a spy show with a difference </a></h3> </li> <li> <span>5.</span> <h4> <a href="/entertainment" rel="follow" target="_self">Entertainment</a> </h4> <h3> <a class="threeLine" href="/entertainment/siddhanth-kapoors-choice/cid/1710028" rel="follow" target="_self">Siddhanth Kapoor’s choice</a></h3> </li> <li> <span>6.</span> <h4> <a href="/entertainment" rel="follow" target="_self">Entertainment</a> </h4> <h3> <a class="threeLine" href="/entertainment/rohit-saraf-s-sky/cid/1710754" rel="follow" target="_self">Rohit Saraf on The Sky is Pink</a></h3> </li> <li> <span>7.</span> <h4> <a href="/entertainment" rel="follow" target="_self">Entertainment</a> </h4> <h3> <a class="threeLine" href="/entertainment/vaastav-sanjus-searing-reality/cid/1710958" rel="follow" target="_self">‘Vaastav’: Sanju’s searing reality</a></h3> </li> <li> <span>8.</span> <h4> <a href="/entertainment" rel="follow" target="_self">Entertainment</a> </h4> <h3> <a class="threeLine" href="/entertainment/kukoo-calling/cid/1433168" rel="follow" target="_self">Kubbra Sait on her trans role in Sacred Games</a></h3> </li> </ul> </div> </div> <div class="add-full pb-0"> <div class="addDivCulture setMaxWidth"> <div id="div-gpt-ad-1525340492587-1" style="height:90px; width:728px;"> <script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525340492587-1'); });
+</script> </div> </div> </div> <div class="row sectionTopSpace"> <div class="col pr-0 moreNow" collection-template="pages/culture/page" data-widget="More from Entertainment_Entertainment page" wgt-sequence="1" wgt-sorter="121-More from Entertainment (A)" wgt-template="widgets/section-load-more"> <div class="heading"><span>More from Entertainment</span></div> <div class="storyBox"> <ul class="listing-withImage" id="load-more-stories"> <li> <div class="imgWrap"> <div class="placeholderSmall"> <a href="/entertainment/a-lump-in-your-throat/cid/1712616" rel="follow" target="_self"> <img alt="The ‘Lakdi Ki Kaathi’ sequence from the movie" src="/unsafe/110x83/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712616/4X3/imaged94a127d-4ab7-4ec4-b17b-3117a269b8e7.jpg"/> </a> </div> </div> <h4> <a href="/entertainment">Entertainment</a> </h4> <h3 class="loadMore"><a href="/entertainment/a-lump-in-your-throat/cid/1712616" rel="follow" target="_self">A lump in your throat</a> </h3> <p><a class="twoLine" href="/entertainment/a-lump-in-your-throat/cid/1712616" rel="follow" target="_self">Only recently, Shekhar Kapur got trolled on Twitter for not acknowledging the original</a></p> <span> <span class="byLine">By Sulagana Biswas</span> </span> </li> <li> <div class="imgWrap"> <div class="placeholderSmall"> <a href="/entertainment/rhythm-shaw-s-great-musical-journey/cid/1712610" rel="follow" target="_self"> <img alt="Rhythm Shaw " src="/unsafe/110x83/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712610/4X3/imagefc46aaf6-237e-47db-8057-a3d7af551264.jpg"/> </a> </div> </div> <h4> <a href="/entertainment">Entertainment</a> </h4> <h3 class="loadMore"><a href="/entertainment/rhythm-shaw-s-great-musical-journey/cid/1712610" rel="follow" target="_self">Rhythm Shaw's great musical journey</a> </h3> <p><a class="twoLine" href="/entertainment/rhythm-shaw-s-great-musical-journey/cid/1712610" rel="follow" target="_self">The 24-year-old has managed to tour Germany and Europe with his first album</a></p> <span> <span class="byLine">By Urvashi Bhattacharya</span> </span> </li> <li> <div class="imgWrap"> <div class="placeholderSmall"> <a href="/entertainment/supernatural-enters-final-season/cid/1712605" rel="follow" target="_self"> <img alt="Brothers in arms: Jensen Ackles (left) and Jared Padalecki in the show" src="/unsafe/110x83/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712605/4X3/image7fa5cca0-8d26-415c-a3a0-04cec9c3148f.jpg"/> </a> </div> </div> <h4> <a href="/entertainment">Entertainment</a> </h4> <h3 class="loadMore"><a href="/entertainment/supernatural-enters-final-season/cid/1712605" rel="follow" target="_self">‘Supernatural’ enters final season</a> </h3> <p><a class="twoLine" href="/entertainment/supernatural-enters-final-season/cid/1712605" rel="follow" target="_self">‘I think we’re going to go out at the right time’ — Jensen ‘Dean’ Ackles</a></p> <span> <span class="byLine"> <a href="/author/priyanka-roy/76">By Priyanka Roy</a> </span> </span> </li> <li> <div class="imgWrap"> <div class="placeholderSmall"> <a href="/entertainment/laal-kaptaan-yawnfest-let-down-by-ambition/cid/1712603" rel="follow" target="_self"> <img alt="Saif Ali Khan in the movie" src="/unsafe/110x83/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712603/4X3/derivative4X31571403624027.jpg"/> </a> </div> </div> <h4> <a href="/entertainment">Entertainment</a> </h4> <h3 class="loadMore"><a href="/entertainment/laal-kaptaan-yawnfest-let-down-by-ambition/cid/1712603" rel="follow" target="_self">‘Laal Kaptaan’: Yawnfest let down by ambition</a> </h3> <p><a class="twoLine" href="/entertainment/laal-kaptaan-yawnfest-let-down-by-ambition/cid/1712603" rel="follow" target="_self">Saif Ali Khan embraces the raw and rugged physicality of a murderous ascetic</a></p> <span> <span class="byLine"> <a href="/author/priyanka-roy/76">By Priyanka Roy</a> </span> </span> </li> <li> <div class="imgWrap"> <div class="placeholderSmall"> <a href="/entertainment/filmmaker-navdeep-singh-looks-forward-to-laal-kaptaan-and-rewinds-to-nh10/cid/1712370" rel="follow" target="_self"> <img alt="Saif Ali Khan in ‘Laal Kaptaan’ " src="/unsafe/110x83/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712370/4X3/image7fdc0da2-d1a5-45c4-a984-3f052bbfaf1c.jpg"/> </a> </div> </div> <h4> <a href="/entertainment">Entertainment</a> </h4> <h3 class="loadMore"><a href="/entertainment/filmmaker-navdeep-singh-looks-forward-to-laal-kaptaan-and-rewinds-to-nh10/cid/1712370" rel="follow" target="_self">Navdeep Singh looks forward to ‘Laal Kaptaan’</a> </h3> <p><a class="twoLine" href="/entertainment/filmmaker-navdeep-singh-looks-forward-to-laal-kaptaan-and-rewinds-to-nh10/cid/1712370" rel="follow" target="_self">Singh talks about why he is attracted to dark stories</a></p> <span> <span class="byLine"> <a href="/author/karishma-upadhyay/82">By Karishma Upadhyay</a> </span> </span> </li> <li> <div class="imgWrap"> <div class="placeholderSmall"> <a href="/entertainment/gitanjali-rao-creating-waves-with-bombay-rose/cid/1712367" rel="follow" target="_self"> <img alt="A moment from ‘Bombay Rose’" src="/unsafe/110x83/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712367/4X3/image4b2fdad2-47f3-437c-8679-f03a02f7072f.jpg"/> </a> </div> </div> <h4> <a href="/entertainment">Entertainment</a> </h4> <h3 class="loadMore"><a href="/entertainment/gitanjali-rao-creating-waves-with-bombay-rose/cid/1712367" rel="follow" target="_self">Gitanjali Rao: Creating waves with ‘Bombay Rose’</a> </h3> <p><a class="twoLine" href="/entertainment/gitanjali-rao-creating-waves-with-bombay-rose/cid/1712367" rel="follow" target="_self">Animation feature is currently showing at the Jio MAMI 21st Mumbai Film Festival with STAR 2019</a></p> <span> <span class="byLine"> <a href="/author/priyanka-roy/76">By Priyanka Roy</a> </span> </span> </li> <li> <div class="imgWrap"> <div class="placeholderSmall"> <a href="/entertainment/bollywood/as-ujda-chaman-and-bala-get-ready-for-face-off-we-look-back-at-similar-cases/cid/1712159" rel="follow" target="_self"> <img alt="Bala movie poster" src="/unsafe/110x83/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712159/4X3/image007239e2-06f2-4d50-9cc8-6c3cabba6d33.jpg"/> </a> </div> </div> <h4> <a href="/entertainment/bollywood">Bollywood</a> </h4> <h3 class="loadMore"><a href="/entertainment/bollywood/as-ujda-chaman-and-bala-get-ready-for-face-off-we-look-back-at-similar-cases/cid/1712159" rel="follow" target="_self">As Ujda Chaman and Bala get ready for face-off, we look back at similar cases</a> </h3> <p><a class="twoLine" href="/entertainment/bollywood/as-ujda-chaman-and-bala-get-ready-for-face-off-we-look-back-at-similar-cases/cid/1712159" rel="follow" target="_self">Bald clash of ‘ideas’</a></p> <span> <span class="byLine">By Our Bureau &amp; PTI</span> </span> </li> <li> <div class="imgWrap"> <div class="placeholderSmall"> <a href="/entertainment/bollywood/saif-ali-khan-on-playing-a-wild-wolf-in-friday-film-laal-kaptaan/cid/1712153" rel="follow" target="_self"> <img alt="Saif Ali Khan in Laal Kaptaan " src="/unsafe/110x83/smart/static.telegraphindia.com/derivative/THE_TELEGRAPH/1712153/4X3/image0d836681-1458-4ede-8ed1-437d8b612a44.jpg"/> </a> </div> </div> <h4> <a href="/entertainment/bollywood">Bollywood</a> </h4> <h3 class="loadMore"><a href="/entertainment/bollywood/saif-ali-khan-on-playing-a-wild-wolf-in-friday-film-laal-kaptaan/cid/1712153" rel="follow" target="_self">Saif Ali Khan on playing a ‘wild wolf’ in Laal Kaptaan</a> </h3> <p><a class="twoLine" href="/entertainment/bollywood/saif-ali-khan-on-playing-a-wild-wolf-in-friday-film-laal-kaptaan/cid/1712153" rel="follow" target="_self">He also talks about what drives him to do a film and son Ibrahim’s Bolly aspirations </a></p> <span> <span class="byLine"> <a href="/author/karishma-upadhyay/82">By Karishma Upadhyay</a> </span> </span> </li> </ul> </div> <script>
+                section = 'entertainment';
+            </script> <div class="text-center" id="load_more" onclick="loadMore()"> <span class="loadMoreStory">Load More</span> </div> <div class="text-center" id="loading" onclick="loadMore()" style="display:none;"> <span class="loadMoreStory">Loading...</span> </div> <script>
+                    var from = 8;
+                    var size = 6;
+                    var totalStories = from + 1;
+                    var loadedStories = -1;
+
+                    function loadMore(){
+                        console.log('loading')
+                        $('#load_more').hide();
+                        $('#loading').show();
+                        $.ajax('/entertainment/sorter/121/from/'+from+'/size/'+size, {
+                            success: function(data) {
+                                $('#load_more').show();
+                                $('#loading').hide();
+                                from = from + size;
+                                $("#load-more-stories").append(data);
+//                                console.log('dfdfdf', data.json());
+                            },
+                            error: function(error) {
+                                console.error(error);
+                                $('#load_more').show();
+                                $('#loading').hide();
+                            }
+                        });
+                    }
+
+                    function hideLoadMore(){
+                        console.log('hiding')
+                        $('#load_more').hide();
+                        $('#loading').hide();
+                    }
+                </script> </div> <div class="col addRight mt-4 mt-load"> <div class="addDivSquare d-none d-lg-block"> <div id="div-gpt-ad-1525340492587-4" style="height:250px; width:300px;"> <script>
+if(abpDevice==="desktop"){googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525340492587-4'); });}
+</script> </div> </div> </div> </div> <div class="py-3"> <div id="taboola-below-page-thumbnails"></div> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-b',
+    container: 'taboola-below-page-thumbnails',
+    placement: 'Below Page Thumbnails',
+    target_type: 'mix'
+  });
+</script> </div> </div> </div> <div style="display: none"> <div id="div-gpt-ad-1525340492587-5"> <script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525340492587-5'); });
+</script> </div> <div id="div-gpt-ad-1525340492587-6"> <script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1525340492587-6'); });
+</script> </div> </div> <footer> <div class="container"> <div class="d-flex"> <div class="footer-col" data-widget="Footer_Entertainment page"> <h2>The Telegraph</h2> <a href="/about-us">About Us</a> <a href="/contact-us">Contact Us</a> <a href="/terms-of-use">Terms of use</a> <a href="/privacy-policy">Privacy Policy</a> </div> <div class="footer-col" data-widget="Footer_Entertainment page"> <h2>Links</h2> <a href="/">Home</a> <a href="/opinion">Opinion</a> <a href="/india">India</a> <a href="/states/west-bengal">Bengal</a> <a href="/world">World</a> <a href="/business">Business</a> <a href="/science">Science</a> <a href="/technology">Technology</a> <a href="/health">Health</a> <a href="/sport">Sport</a> <a href="/entertainment">Entertainment</a> <a href="/culture">Culture</a> </div> <div class="footer-col" data-widget="Footer_Entertainment page"> <h2>Group Websites</h2> <a class="mb-3" href="https://www.fortuneindia.com/" target="_blank"><i class="sprite fi"></i>Fortune India</a> <a class="mb-3" href="https://www.anandabazar.com/" target="_blank"><i class="sprite ab"></i>Anandabazar Patrika</a> <h2> DOWNLOAD TT APP</h2> <a class="mb-3" href="https://appurl.io/gJiSI_o7z" target="_blank"><i class="fa fa-android"></i>Android</a> <a class="mb-3" href="https://appurl.io/ON5rLnFXn" target="_blank"><i class="fa fa-apple"></i>iPhone</a> </div> </div> </div> <div class="footerCopy"> <div class="container"> <div class="d-flex justify-content-between"> <p class="copyRight">Copyright © <span id="year">2017</span> The Telegraph. All rights reserved.</p> <div class="social_share"> Follow us on <a href="https://www.facebook.com/thetelegraphindia" target="_blank"> <span class="icon-facebook"></span></a> <a href="https://twitter.com/ttindia" target="_blank"> <span class="icon-twitter"></span></a> <a href="https://www.instagram.com/telegraphonline/" target="_blank"> <span class="icon-instagram"></span></a> </div> </div> </div> </div> <p class="icon-up-open-big" id="backToTop"></p> </footer> <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script> <script src="https://www.telegraphindia.com/clevertap_sw.js"></script> <div class="fb-customerchat" page_id="196279461025702" ref="Welcome message"></div> <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5869fef4bf06892f" type="text/javascript"></script> <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> <script src="/assets/js/bundle.js?v=8796" type="text/javascript"></script> </body> </html>
